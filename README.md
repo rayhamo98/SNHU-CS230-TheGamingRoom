@@ -1,10 +1,8 @@
 # SNHU-CS230-TheGamingRoom  
 **Software Design Document – The Gaming Room (Draw It or Lose It)**  
-**Author:** Rimon “Ray” Hamo  
+**Author:** Rimon Hamo  
 **Course:** CS-230 Operating Platforms  
 **Institution:** Southern New Hampshire University  
-
-> “Technology is the bridge between today’s dreams and tomorrow’s reality.” – Rimon H.
 
 ---
 
